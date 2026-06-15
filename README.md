@@ -27,6 +27,7 @@ When I'm not coding, you can find me:
 <p align="center">
   <i>"The soul of the machine is in the low-level code."</i>
   <br>
+  <br>
   <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/ec2fce48-74f8-4818-b3f7-993305531760" />
 </p>
 
