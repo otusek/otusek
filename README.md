@@ -5,17 +5,17 @@ An 18-year-old developer and tech enthusiast from Poland. I love exploring how t
 ---
  
 ### Currently working on
-* **[WinGnome](https://github.com/otusek/WinGnome)** - A custom-made Windows shell that replaces `explorer.exe` with a custom, GNOME lookalike using pure C++ and Win32 API. Making "winslop" feel like home for Linux users.
+* **[WinGnome](https://github.com/otusek/WinGnome)** - A custom-made Windows shell that replaces `explorer.exe` with a custom, GNOME lookalike using pure C++ and Win32 API for whoever that loves GNOME as much as I do.
 * *Learning:* Deepening my knowledge of **C++**, learning **Rust, React, C and Python**, and mastering system-level automation.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Languages:** C++, React, Python, C, HTML/CSS, Rust
 * **OS/Environment:** Artix Linux (OpenRC + MangoWM), Windows (Dual-boot for gaming/MAUI)
 * **Hardware/Electronics:** KiCad (PCB Design), Arduino, ESP32, Soldering 🛠️
 
 ---
 
-### 🏎️ Beyond Programming
+### Beyond Programming
 When I'm not coding, you can find me:
 * On my [Twitch](https://www.twitch.tv/otusek) streaming Apex Legends 
 * Doing some sim racing in Assetto Corsa / Dirt Rally 2.0 on Thrustmaster T300RS GT
@@ -25,6 +25,8 @@ When I'm not coding, you can find me:
 ---
 
 <p align="center">
-  <i>"The soul of the machine is in the low-level code."</i> 🐧⚙️
+  <i>"The soul of the machine is in the low-level code."</i>
+  <br>
+  <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/ec2fce48-74f8-4818-b3f7-993305531760" />
 </p>
-<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/ec2fce48-74f8-4818-b3f7-993305531760" />
+
